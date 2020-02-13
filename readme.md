@@ -1,3 +1,3 @@
 # Talks
 
-I will upload here the my talks slides. Talks are divided based on language (Polish and English)
+I will upload here my presentations. Presentations are divided based on language (Polish or English)
